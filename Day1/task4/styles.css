@@ -1,0 +1,40 @@
+.box{
+    width:300px;
+    height:500px;
+    margin:75px auto;
+    border:2px solid lightgray;
+    text-align: center;
+    padding: 50px;
+}
+.title{
+    margin-top:0;
+    font-size:60px;
+}
+.fields{
+    border: 1px solid lightgray;
+    width:100%;
+    padding: 20px;
+    border-radius: 10px;
+    margin:auto;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+.btn{
+    margin: auto;
+    padding: 20px;
+    width:70%;
+    border:1px solid grey;
+    border-radius: 16px;
+    background-color:black;
+    color:white;
+    font-size:15px;
+}
+.footer{
+    margin-top:40px;
+    font-size:small;
+    color: gray;
+}
+span{
+    color: black ;
+    text-decoration: underline;
+}
